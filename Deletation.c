@@ -16,7 +16,7 @@ int main()
         j = j + 1;
     }
 
-    printf("\n\nInserted array elements: \n");
+    printf("\n\nDeleted array elements: \n");
     for(i = 0; i < n - 1; i++){
         printf("%d ", arr[i]);
     }
